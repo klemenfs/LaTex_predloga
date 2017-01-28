@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.2)  21 JAN 2017 08:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.2)  28 JAN 2017 21:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1867,27 +1867,16 @@ Package babel Info: Redefining slovene shorthand "|
 (babel)             in language  on input line 61.
 Package babel Info: Redefining slovene shorthand "|
 (babel)             in language  on input line 61.
+Package atenddvi Info: Last page = 3.
  [2]
-Package babel Info: Redefining slovene shorthand "|
-(babel)             in language  on input line 66.
-Package babel Info: Redefining slovene shorthand "|
-(babel)             in language  on input line 66.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.66 \end{document}
-                   
-Package atenddvi Info: Last page = 4.
- [1]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 66.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 67.
  (./predloga_LaTex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `predloga_LaTex.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
  41867 strings out of 493029
@@ -1898,12 +1887,11 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  55i,5n,83p,10419b,750s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on predloga_LaTex.pdf (4 pages, 37057 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on predloga_LaTex.pdf (3 pages, 25832 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
