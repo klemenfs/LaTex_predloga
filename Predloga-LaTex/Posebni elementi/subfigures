@@ -1,0 +1,13 @@
+\begin{figure}[H]
+	\centering
+	\subfigure[Tekst pod prvo sliko.]{
+		\includegraphics[width=6cm]{datoteka}
+		\label{subfig:label1}
+	}
+	\subfigure[Tekst pod drugo sliko.]{
+		\includegraphics[width=6cm]{datoteka}
+		\label{subfig:label2}
+	}
+	\caption{Skupni tekst.}
+	\label{fig:label}
+\end{figure}

@@ -1,0 +1,10 @@
+\begin{figure}[H]
+	\centering
+	\begin{tikzpicture}[every plot/.append style={very thick}]
+		\begin{axis}[xlabel={y_label}, ylabel={x_label}, width=14cm, height=8cm, xmin=0, xmax=20, grid=major, legend pos=north]
+		\addlegendentry{vnos-legende}
+		\addplot[mark = none, color=black] table [x=x_stolpec, y=y_stolpec, col sep=comma] {datoteka.csv};
+		\end{axis}
+	\end{tikzpicture}
+	\caption{NASLOV DIAGRAMA.}
+\end{figure}

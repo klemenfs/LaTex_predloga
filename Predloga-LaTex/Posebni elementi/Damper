@@ -1,0 +1,9 @@
+%Dušilka:
+\newcommand{\Ldus}{2} %Dolžina dušilke
+\coordinate (Start) at (0, 0); %koordinate začetka dušilke
+	
+\draw (Start)--($(Start)+(\Ldus/2,0)$);
+\path[draw=black] ($(Start)+(\Ldus/2-0.2,0.05)$)--($(Start)+(\Ldus/2-0.2,0.2)$)--($(Start)+(\Ldus/2+0.1,0.2)$)--($(Start)+(\Ldus/2+0.1,-0.2)$)--($(Start)+(\Ldus/2-0.2,-0.2)$)--($(Start)+(\Ldus/2-0.2,-0.05)$);
+
+\draw ($(Start)+(\Ldus/2,0.2)$)--($(Start)+(\Ldus/2,-0.2)$);
+\draw ($(Start)+(\Ldus/2+0.1,0)$)--($(Start)+(\Ldus,0)$);
