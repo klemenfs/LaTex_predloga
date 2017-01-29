@@ -1,3 +1,2 @@
 # LaTex_predloga
-Predloga za LaTex dokumente
-(Original - LADISK)
+Predloga za LaTex dokumente (Original - LADISK)
